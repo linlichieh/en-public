@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/cooking-main/</loc>
-    <lastmod>2020-03-08T20:23:02+11:00</lastmod>
+    <loc>/cooking-curry-rice/</loc>
+    <lastmod>2020-03-15T19:24:52+11:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-03-08T20:23:02+11:00</lastmod>
+    <lastmod>2020-03-15T19:24:52+11:00</lastmod>
   </url>
   
   <url>
     <loc>/posts/</loc>
+    <lastmod>2020-03-15T19:24:52+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/cooking-main/</loc>
     <lastmod>2020-03-08T20:23:02+11:00</lastmod>
   </url>
   
