@@ -1,158 +1,96 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/</loc>
     <lastmod>2021-01-09T01:38:50+11:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/</loc>
     <lastmod>2021-01-09T01:38:50+11:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/workout/</loc>
     <lastmod>2021-01-09T01:38:50+11:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/guitar-arrangement/</loc>
     <lastmod>2021-01-01T14:24:30+11:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/guitar-basis/</loc>
     <lastmod>2020-11-15T00:00:00+11:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/singing-training/</loc>
     <lastmod>2020-08-02T15:40:02+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/camping-equipments/</loc>
     <lastmod>2020-03-26T21:05:46+11:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/investment-basics/</loc>
     <lastmod>2020-03-26T19:57:04+11:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/investment-u.s.-stocks/</loc>
     <lastmod>2020-03-26T19:57:04+11:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/cooking-curry-rice/</loc>
     <lastmod>2020-03-15T19:24:52+11:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/cooking-main/</loc>
     <lastmod>2020-03-08T20:23:02+11:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/cooking-noodles/</loc>
     <lastmod>2020-03-07T20:23:02+11:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/cooking-pasta/</loc>
     <lastmod>2019-12-15T16:23:04+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/cooking-fried-rice/</loc>
     <lastmod>2019-12-02T22:17:21+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/cooking-vegetables/</loc>
     <lastmod>2019-12-02T22:17:21+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/cooking-steak/</loc>
     <lastmod>2018-01-31T23:59:47+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/ielts/</loc>
     <lastmod>2017-12-28T17:49:47+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/misc/</loc>
     <lastmod>2017-05-09T20:56:37+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/phrase-verbs/</loc>
     <lastmod>2017-02-12T16:53:12+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/clause/</loc>
     <lastmod>2017-02-12T11:17:07+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/conjunction/</loc>
     <lastmod>2017-02-07T03:17:28+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/interview/</loc>
     <lastmod>2017-01-13T21:51:23+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/preposition/</loc>
     <lastmod>2017-01-08T22:42:01+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/advanced/</loc>
     <lastmod>2017-01-08T22:18:24+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/verb/</loc>
     <lastmod>2017-01-08T21:37:56+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/difference/</loc>
     <lastmod>2017-01-08T21:23:02+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/conversation/</loc>
     <lastmod>2017-01-08T21:19:41+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/phrase/</loc>
     <lastmod>2017-01-08T21:09:54+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/basic/</loc>
     <lastmod>2017-01-08T21:00:59+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/</loc>
   </url>
-  
 </urlset>
